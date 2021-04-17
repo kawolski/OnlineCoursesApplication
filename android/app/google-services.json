@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000054351632",
+    "project_id": "easemytrade-b8bab",
+    "storage_bucket": "easemytrade-b8bab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000054351632:android:f6f6d8f38ff6127effa795",
+        "android_client_info": {
+          "package_name": "com.prashantraw.emt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000054351632-0m0uk7krv16hrjtipqkubu4eif9lln51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx27gEmhPydah5W4FdCijMtUCpOxkuPic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000054351632-0m0uk7krv16hrjtipqkubu4eif9lln51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
